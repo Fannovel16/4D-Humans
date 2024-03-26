@@ -20,8 +20,7 @@ setup(
         'timm',
         'webdataset',
         'dill',
-        'pandas',
-        'chumpy @ git+https://github.com/mattloper/chumpy',
+        'pandas'
     ],
     extras_require={
         'all': [
